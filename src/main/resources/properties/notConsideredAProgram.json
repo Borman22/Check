@@ -1,0 +1,20 @@
+[
+  {
+    "programType": "SLALOM",
+    "znakKrug" : "",
+    "skleroticName": "",
+    "programSynonyms": [".*Slalom.*",".*SLALOM.*"]
+  },
+  {
+    "programType": "N",
+    "znakKrug" : "",
+    "skleroticName": "",
+    "programSynonyms": ["N-NEWS.*"]
+  },
+  {
+    "programType": "T",
+    "znakKrug" : "",
+    "skleroticName": "",
+    "programSynonyms": ["T-.*"]
+  }
+]

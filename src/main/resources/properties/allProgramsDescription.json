@@ -1,0 +1,399 @@
+[
+  {
+    "programType": "PR",
+    "znakKrug" : "",
+    "skleroticName": "Dali PR-3x4",
+    "programSynonyms": [".*3x4.*",".*Зх4.*",".*3х4.*"]
+  },
+  {
+    "programType": "PR",
+    "znakKrug" : "",
+    "skleroticName": "Dali PR-Enyky Benyky",
+    "programSynonyms": [".*Enyky.*",".*Эники.*",".*Еники.*"]
+  },
+  {
+    "programType": "PR",
+    "znakKrug" : "",
+    "skleroticName": "Dali PR-Hovanky",
+    "programSynonyms": [".*Hovanky.*",".*семейные прятки.*"]
+  },
+  {
+    "programType": "PR",
+    "znakKrug" : "",
+    "skleroticName": "Dali PR-Kruti Rozvodi",
+    "programSynonyms": [".*ROZVODI.*",".*Rozvodi.*",".*Rozvody.*",".*Крутые разводы.*",".*Круті розводи.*"]
+  },
+  {
+    "programType": "PR",
+    "znakKrug" : "",
+    "skleroticName": "Dali PR-Oliver 15min",
+    "programSynonyms": [".*Jamies 15.*",".*Jamies15.*",".*Jamie15.*",".*Jamies_15.*",".*Обед за 15 минут.*"]
+  },
+  {
+    "programType": "PR",
+    "znakKrug" : "",
+    "skleroticName": "Dali PR-Oliver 30min",
+    "programSynonyms": [".*za 30 min.*",".*Обед за 30 минут.*",".*Jamies30M.*",".*Jamie30.*",".*JO30MM.*"]
+  },
+  {
+    "programType": "PR",
+    "znakKrug" : "",
+    "skleroticName": "Dali PR-Oliver Festival",
+    "programSynonyms": [".*JamieBigFestival.*",".*Jamies_Big_Festival.*",".*Кормчий Джейми.*",".*Харчевой Джейми.*",".*Великий Харчоваль.*"]
+  },
+  {
+    "programType": "PR",
+    "znakKrug" : "",
+    "skleroticName": "Dali PR-Oliver Great Britain",
+    "programSynonyms": [".*Jamies Great Britain.*",".*,Британская кухня.*"]
+  },
+  {
+    "programType": "PR",
+    "znakKrug" : "",
+    "skleroticName": "Dali PR-Oliver Mandrivki",
+    "programSynonyms": [".*JamieAmericanTrip.*",".*Jamies_American_Road_Trip.*",".*Кулинарные путешествия.*"]
+  },
+  {
+    "programType": "PR",
+    "znakKrug" : "",
+    "skleroticName": "Dali PR-Oliver Recepty",
+    "programSynonyms": [".*_Twist.*",".*Oliverstwist.*",".*Рецепты Джейми.*"]
+  },
+  {
+    "programType": "PR",
+    "znakKrug" : "",
+    "skleroticName": "Dali PR-Paralelniy Svit",
+    "programSynonyms": [".*Paral.*",".*Паралельний світ.*",".*Параллельный мир.*"]
+  },
+  {
+    "programType": "PR",
+    "znakKrug" : "",
+    "skleroticName": "Dali PR-Rozkishne zhittya",
+    "programSynonyms": [".*Rozkishne.*"]
+  },
+  {
+    "programType": "PR",
+    "znakKrug" : "",
+    "skleroticName": "Dali PR-Simeyni Pristrasti",
+    "programSynonyms": [".*SimeyniPrystrasti.*",".*Semeynye_strasti.*"]
+  },
+  {
+    "programType": "PR",
+    "znakKrug" : "",
+    "skleroticName": "Dali PR-Virus Smihu",
+    "programSynonyms": [".*Virus.*"]
+  },
+  {
+    "programType": "PR",
+    "znakKrug" : "",
+    "skleroticName": "Dali PR-Vusolapohvist",
+    "programSynonyms": [".*Vuso.*",".*Вусолапохвіст.*",".*УсоЛапоХвост.*"]
+  },
+  {
+    "programType": "PR",
+    "znakKrug" : "",
+    "skleroticName": "Dali PR-Bytva",
+    "programSynonyms": ["PR-Bytva.*"]
+  },
+  {
+    "programType": "PR",
+    "znakKrug" : "",
+    "skleroticName": "Dali PR-Karamba",
+    "programSynonyms": [".*Карамба.*"]
+  },
+  {
+    "programType": "PR",
+    "znakKrug" : "",
+    "skleroticName": "",
+    "programSynonyms": ["PR-pravila.*",".*Правила жизни.*"]
+  },
+
+
+
+  {
+    "programType": "HS",
+    "znakKrug" : "znak krug 16",
+    "skleroticName": "",
+    "programSynonyms": [".*Numbers.*"]
+  },
+  {
+    "programType": "HS",
+    "znakKrug" : "znak krug 16",
+    "skleroticName": "Dali HS-Deathinparadise",
+    "programSynonyms": [".*Deathinparadise.*"]
+  },
+  {
+    "programType": "HS",
+    "znakKrug" : "znak krug 16",
+    "skleroticName": "Dali HS-Druge Jittya",
+    "programSynonyms": [".*Vtoraya.*"]
+  },
+  {
+    "programType": "HS",
+    "znakKrug" : "znak krug 16",
+    "skleroticName": "Dali HS-Sex i Misto",
+    "programSynonyms": ["HS-SEX-MISTO.*",".*Секс и город.*",".*Секс і місто.*"]
+  },
+  {
+    "programType": "HS",
+    "znakKrug" : "znak krug 16",
+    "skleroticName": "Dali HS-Medium",
+    "programSynonyms": [".*Медиум.*",".*Медіум.*","HS-Medium.*"]
+  },
+  {
+    "programType": "HS",
+    "znakKrug" : "znak krug 16",
+    "skleroticName": "Dali HS-CSI",
+    "programSynonyms": ["HS-CSI-S.*",".*Місце злочину Лас-Вегас.*"]
+  },
+  {
+    "programType": "HS",
+    "znakKrug" : "znak krug 16",
+    "skleroticName": "Dali HS-NCIS",
+    "programSynonyms": [".*Морская полиция.*",".*Морська поліція.*","HS-NCIS.*"]
+  },
+  {
+    "programType": "HS",
+    "znakKrug" : "znak krug 16",
+    "skleroticName": "Dali HS-CSI NewYork",
+    "programSynonyms": ["HS-CSI-NEW-York.*",".*Место преступления: Нью-Йорк.*"]
+  },
+  {
+    "programType": "HS",
+    "znakKrug" : "znak krug 16",
+    "skleroticName": "Dali HS-CriminalMinds",
+    "programSynonyms": [".*CriminalMinds.*",".*Мислити як вбивця.*"]
+  },
+  {
+    "programType": "HS",
+    "znakKrug" : "znak krug 16",
+    "skleroticName": "Dali HS-Deathinparadise",
+    "programSynonyms": ["HS-Deathinparadise.*"]
+  },
+  {
+    "programType": "HS",
+    "znakKrug" : "znak krug 16",
+    "skleroticName": "Dali HS-Callthemidwife",
+    "programSynonyms": ["HS-Callthemidwife.*"]
+  },
+  {
+    "programType": "HS",
+    "znakKrug" : "znak krug 12",
+    "skleroticName": "Dali HS-CHAU",
+    "programSynonyms": ["HS-CHAU.*",".*Чисто английские.*"]
+  },
+  {
+    "programType": "HS",
+    "znakKrug" : "znak krug 16",
+    "skleroticName": "Dali HS-Hawaii",
+    "programSynonyms": ["HS-Hawaii.*",".*Гавайи.*",".*Гаваї.*"]
+  },
+  {
+    "programType": "HS",
+    "znakKrug" : "znak krug 16",
+    "skleroticName": "",
+    "programSynonyms": ["HS-Silentwitness.*", ".*Мовчазний свідок.*"]
+  },
+
+
+
+  {
+    "programType": "HFErotic",
+    "znakKrug" : "",
+    "skleroticName": "",
+    "programSynonyms": ["HF-Corporate.*"]
+  },
+  {
+    "programType": "HFErotic",
+    "znakKrug" : "",
+    "skleroticName": "",
+    "programSynonyms": ["HF-Delilah.*"]
+  },
+  {
+    "programType": "HFErotic",
+    "znakKrug" : "",
+    "skleroticName": "",
+    "programSynonyms": ["HF-Fit.*"]
+  },
+  {
+    "programType": "HFErotic",
+    "znakKrug" : "",
+    "skleroticName": "",
+    "programSynonyms": ["HF-Housemates.*"]
+  },
+  {
+    "programType": "HFErotic",
+    "znakKrug" : "",
+    "skleroticName": "",
+    "programSynonyms": ["HF-Lena.*"]
+  },
+  {
+    "programType": "HFErotic",
+    "znakKrug" : "",
+    "skleroticName": "",
+    "programSynonyms": ["HF-Pearl.*"]
+  },
+  {
+    "programType": "HFErotic",
+    "znakKrug" : "",
+    "skleroticName": "",
+    "programSynonyms": ["HF-Pleasure.*"]
+  },
+  {
+    "programType": "HFErotic",
+    "znakKrug" : "",
+    "skleroticName": "",
+    "programSynonyms": ["HF-Riot.*"]
+  },
+  {
+    "programType": "HFErotic",
+    "znakKrug" : "",
+    "skleroticName": "",
+    "programSynonyms": ["HF-Sexology.*"]
+  },
+  {
+    "programType": "HFErotic",
+    "znakKrug" : "",
+    "skleroticName": "",
+    "programSynonyms": ["HF-Taste.*"]
+  },
+
+  {
+    "programType": "HFErotic",
+    "znakKrug" : "",
+    "skleroticName": "",
+    "programSynonyms": ["HF-Sex With.*"]
+  },
+  {
+    "programType": "HFErotic",
+    "znakKrug" : "",
+    "skleroticName": "",
+    "programSynonyms": ["HF-Quartet.*"]
+  },
+  {
+    "programType": "HFErotic",
+    "znakKrug" : "",
+    "skleroticName": "",
+    "programSynonyms": ["HF-Sun-Stroke.*"]
+  },
+  {
+    "programType": "HFErotic",
+    "znakKrug" : "",
+    "skleroticName": "",
+    "programSynonyms": ["HF-TheGuesthouse.*"]
+  },
+  {
+    "programType": "HFErotic",
+    "znakKrug" : "",
+    "skleroticName": "",
+    "programSynonyms": ["HF-Love In Digital.*"]
+  },
+  {
+    "programType": "HFErotic",
+    "znakKrug" : "",
+    "skleroticName": "",
+    "programSynonyms": ["HF-Ball-Control.*"]
+  },
+  {
+    "programType": "HFErotic",
+    "znakKrug" : "",
+    "skleroticName": "",
+    "programSynonyms": ["HF-Dear Abby.*"]
+  },
+  {
+    "programType": "HFErotic",
+    "znakKrug" : "",
+    "skleroticName": "",
+    "programSynonyms": ["HF-Positions.*"]
+  },
+  {
+    "programType": "HFErotic",
+    "znakKrug" : "",
+    "skleroticName": "",
+    "programSynonyms": ["HF-Exposure.*"]
+  },
+  {
+    "programType": "HFErotic",
+    "znakKrug" : "",
+    "skleroticName": "",
+    "programSynonyms": ["HF-CabaretDesire.*"]
+  },
+  {
+    "programType": "HFErotic",
+    "znakKrug" : "",
+    "skleroticName": "",
+    "programSynonyms": ["HF-Love Is.*"]
+  },
+  {
+    "programType": "HFErotic",
+    "znakKrug" : "",
+    "skleroticName": "",
+    "programSynonyms": ["HF-The Friend.*"]
+  },
+  {
+    "programType": "HFErotic",
+    "znakKrug" : "",
+    "skleroticName": "",
+    "programSynonyms": ["HF-Second.*"]
+  },
+  {
+    "programType": "HFErotic",
+    "znakKrug" : "",
+    "skleroticName": "",
+    "programSynonyms": ["HF-Dirty.*"]
+  },
+  {
+    "programType": "HFErotic",
+    "znakKrug" : "",
+    "skleroticName": "",
+    "programSynonyms": ["HF-Recipe.*"]
+  },
+  {
+    "programType": "HFErotic",
+    "znakKrug" : "",
+    "skleroticName": "",
+    "programSynonyms": ["HF-With.*"]
+  },
+  {
+    "programType": "HFErotic",
+    "znakKrug" : "",
+    "skleroticName": "",
+    "programSynonyms": ["HF-CloseToTheBone.*"]
+  },
+  {
+    "programType": "HFErotic",
+    "znakKrug" : "",
+    "skleroticName": "",
+    "programSynonyms": ["HF-Man Trap.*"]
+  },
+  {
+    "programType": "HFErotic",
+    "znakKrug" : "",
+    "skleroticName": "",
+    "programSynonyms": ["HF-Tease.*"]
+  },
+  {
+    "programType": "HFErotic",
+    "znakKrug" : "",
+    "skleroticName": "",
+    "programSynonyms": ["HF-The Submission.*"]
+  },
+  {
+    "programType": "HFErotic",
+    "znakKrug" : "",
+    "skleroticName": "",
+    "programSynonyms": ["HF-Torn.*"]
+  },
+  {
+    "programType": "HFErotic.*",
+    "znakKrug" : "",
+    "skleroticName": "",
+    "programSynonyms": ["HF-The-Invitation.*"]
+  },
+  {
+    "programType": "HFErotic",
+    "znakKrug" : "",
+    "skleroticName": "",
+    "programSynonyms": ["HF-The-Matchmaker.*"]
+  }
+]
